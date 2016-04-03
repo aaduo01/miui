@@ -1,1 +1,8 @@
-../../../../../.git/annex/objects/2k/XQ/SHA256E-s360--21705212dfd9ce99e5ed87e187d7f115c2aa70b71d01b843715627960f9b60ab.xml/SHA256E-s360--21705212dfd9ce99e5ed87e187d7f115c2aa70b71d01b843715627960f9b60ab.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sms_provider_label">Üzenetek</string>
+    <string name="mms_provider_label">MMS</string>
+    <string name="mms_sms_provider_label">Üzenetkezelés</string>
+    <string name="siminfo_default_name">%d SIM</string>
+    <string name="app_label">Telefonos/üzenet-tárhely</string>
+</resources>

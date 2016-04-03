@@ -1,1 +1,6 @@
-../../../../../.git/annex/objects/27/9v/SHA256E-s208--232cef644d2a3108d4812ac53bfe02584b9736902039ad431ce335f6ef0755bb.xml/SHA256E-s208--232cef644d2a3108d4812ac53bfe02584b9736902039ad431ce335f6ef0755bb.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enable_online_music">false</bool>
+    <bool name="enable_ktv_mode">false</bool>
+    <bool name="enable_cloud_sync">false</bool>
+</resources>

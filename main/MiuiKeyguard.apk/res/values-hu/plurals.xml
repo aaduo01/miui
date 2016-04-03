@@ -1,1 +1,7 @@
-../../../../../.git/annex/objects/ZZ/Qz/SHA256E-s236--3f78aaa08652df80a7cc7824c6fe1d2471b370b9aa30e197314302cbc41737e4.xml/SHA256E-s236--3f78aaa08652df80a7cc7824c6fe1d2471b370b9aa30e197314302cbc41737e4.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+</resources>

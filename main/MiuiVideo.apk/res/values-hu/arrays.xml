@@ -1,1 +1,11 @@
-../../../../../.git/annex/objects/g5/X1/SHA256E-s322--1ec63d3177d907381e31d3b78bdfbe02b1ab4f7ce0c06ee001c0dac3cc646826.xml/SHA256E-s322--1ec63d3177d907381e31d3b78bdfbe02b1ab4f7ce0c06ee001c0dac3cc646826.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_list_entries">
+        <item>Teszt szerver</item>
+        <item>Online szerver</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>Stabil</item>
+        <item>Beta</item>
+    </string-array>
+</resources>

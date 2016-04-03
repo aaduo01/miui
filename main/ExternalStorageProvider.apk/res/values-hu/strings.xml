@@ -1,1 +1,6 @@
-../../../../../.git/annex/objects/KQ/7j/SHA256E-s241--cb84f1d11f3d88b65133978d6d31400314d4ba845a6bcf1a505e9b12a9fdcd73.xml/SHA256E-s241--cb84f1d11f3d88b65133978d6d31400314d4ba845a6bcf1a505e9b12a9fdcd73.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Külső tároló</string>
+    <string name="root_internal_storage">Belső tároló</string>
+    <string name="root_documents">Dokumentumok</string>
+</resources>

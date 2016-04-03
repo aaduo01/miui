@@ -1,1 +1,7 @@
-../../../../../.git/annex/objects/9j/W2/SHA256E-s182--b6f5b5e5d0bdf73abfffe37713130e351600adf6e009a0f196d7263800b5eb15.xml/SHA256E-s182--b6f5b5e5d0bdf73abfffe37713130e351600adf6e009a0f196d7263800b5eb15.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Szervezet</item>
+        <item>Jegyzet</item>
+    </string-array>
+</resources>

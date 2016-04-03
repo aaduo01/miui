@@ -1,1 +1,9 @@
-../../../../../.git/annex/objects/Wm/3w/SHA256E-s479--5a95d95513f110a565bfbb472ef8d9db452757ece25e768a84e41b9f98838702.xml/SHA256E-s479--5a95d95513f110a565bfbb472ef8d9db452757ece25e768a84e41b9f98838702.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="power_center_low_battery_percent_start">16</integer>
+    <integer name="power_center_low_battery_percent_end">19</integer>
+    <integer name="power_center_on_time_start_time_start">0</integer>
+    <integer name="power_center_on_time_start_time_end">5</integer>
+    <integer name="power_center_on_time_end_time_start">9</integer>
+    <integer name="power_center_on_time_end_time_end">14</integer>
+</resources>

@@ -1,1 +1,11 @@
-../../../../../.git/annex/objects/M2/q8/SHA256E-s468--82c229f38d7bc6dbd2e2dc3a9211d5c0636f72ba385546e32c6a7595d98b72ce.xml/SHA256E-s468--82c229f38d7bc6dbd2e2dc3a9211d5c0636f72ba385546e32c6a7595d98b72ce.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s nyomtató észlelve</item>
+        <item quantity="one">%1$s nyomtató észlelve</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d – nyomtatási feladatok</item>
+        <item quantity="one">%1$d – nyomtatási feladat</item>
+    </plurals>
+</resources>

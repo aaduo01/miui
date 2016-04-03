@@ -1,1 +1,10 @@
-../../../../../.git/annex/objects/8m/7M/SHA256E-s450--3a15629d1c265d5e0504ebf5213701206aca0818c41020ea8d7c894b5c8cc9ac.xml/SHA256E-s450--3a15629d1c265d5e0504ebf5213701206aca0818c41020ea8d7c894b5c8cc9ac.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d hívás rögzítve.</item>
+        <item quantity="one">Egy hívás rögzítve.</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_0001">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0002">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0003">false</item>
+</resources>

@@ -1,1 +1,10 @@
-../../../../../.git/annex/objects/0V/Gx/SHA256E-s546--6c0f6060fb73aba048080dc37f7c8dbab917e0f671c27eeeb1eecb3d8875a747.xml/SHA256E-s546--6c0f6060fb73aba048080dc37f7c8dbab917e0f671c27eeeb1eecb3d8875a747.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_pkg_name">com.milink.service</string>
+    <string name="app_ver_code">1</string>
+    <string name="app_ver_name">1.0</string>
+    <string name="app_name">UniPlay Szolgáltatás</string>
+    <string name="service_name">UniPlay Szolgáltatás</string>
+    <string name="notification_rc_title">Xiaomi távirányító</string>
+    <string name="notification_rc_desc">A Xiaomi távirányító segítségével irányíthatja a Xiaomi TV-t és Xiaomi box-ot</string>
+</resources>

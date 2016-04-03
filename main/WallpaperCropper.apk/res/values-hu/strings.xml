@@ -1,1 +1,6 @@
-../../../../../.git/annex/objects/FX/w7/SHA256E-s306--7e67f2e0cca6e8f68f13d28d416f5de84701d27728dc5a81b42ac21846a0df39.xml/SHA256E-s306--7e67f2e0cca6e8f68f13d28d416f5de84701d27728dc5a81b42ac21846a0df39.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Kép körülvágása</string>
+    <string name="wallpaper_instructions">Beállítás háttérképként</string>
+    <string name="wallpaper_load_fail">Nem lehet a képet háttérképként betölteni</string>
+</resources>

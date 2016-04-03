@@ -1,1 +1,13 @@
-../../../../../.git/annex/objects/M1/XK/SHA256E-s453--3c42174fb555fe75a1d7f1cf3eace801ce7ce5cd5acc6be2ea2ceb808fa13de5.xml/SHA256E-s453--3c42174fb555fe75a1d7f1cf3eace801ce7ce5cd5acc6be2ea2ceb808fa13de5.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Rezgés csengetéskor</item>
+        <item>Rezgés üzenet fogadásakor</item>
+        <item>Rezgés ébresztéskor</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Fénykép készítése</item>
+        <item>Telefon keresése</item>
+        <item>Mi-key keresése</item>
+    </string-array>
+</resources>

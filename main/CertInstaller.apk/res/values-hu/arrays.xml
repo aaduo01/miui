@@ -1,1 +1,7 @@
-../../../../../.git/annex/objects/k9/8Q/SHA256E-s197--69678ead6a84ae72391fa83d7128be1b12afee9439c0b02e7a6bf2f5f36e8a9e.xml/SHA256E-s197--69678ead6a84ae72391fa83d7128be1b12afee9439c0b02e7a6bf2f5f36e8a9e.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="credential_usage">
+        <item>VPN és alkalmazások</item>
+        <item>Wi-Fi</item>
+    </string-array>
+</resources>

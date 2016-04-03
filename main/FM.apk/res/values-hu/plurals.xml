@@ -1,1 +1,15 @@
-../../../../../.git/annex/objects/fG/QW/SHA256E-s660--25fa61aab1394c91d45a168435ec68db7bb6c5ed364c79c3cc2b2a1bddf3cd8f.xml/SHA256E-s660--25fa61aab1394c91d45a168435ec68db7bb6c5ed364c79c3cc2b2a1bddf3cd8f.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">%1$d állomás találat</item>
+        <item quantity="zero">Nincs állomás találat</item>
+        <item quantity="one">1 állomás találat</item>
+        <item quantity="two">%1$d állomás találat</item>
+        <item quantity="few">%1$d állomás találat</item>
+        <item quantity="many">%1$d állomás találat</item>
+    </plurals>
+    <plurals name="notification_rec_content">
+        <item quantity="other">%d FM Rádió felvétel</item>
+        <item quantity="one">%d FM felvétel</item>
+    </plurals>
+</resources>

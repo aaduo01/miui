@@ -1,1 +1,8 @@
-../../../../../.git/annex/objects/jk/3z/SHA256E-s632--b4f32deaebbff94807a1a924f57ba47815d7b78996ff7ad822447f13d588edb6.xml/SHA256E-s632--b4f32deaebbff94807a1a924f57ba47815d7b78996ff7ad822447f13d588edb6.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Hibanapló lefényképezve</string>
+    <string name="bugreport_finished_text">Érintse meg a hibanapló megosztásához</string>
+    <string name="bugreport_confirm">A hibanapló a rendszer különböző naplófájlok adatait tartalmazza, beleértve személyes és titkos adatokat is. Csak olyan emberekkel ossza meg az alkalmazások hibanaplóit, akikben megbízik.</string>
+    <string name="bugreport_confirm_repeat">Mutassa ezt az üzenetet a következő alkalommal</string>
+</resources>
